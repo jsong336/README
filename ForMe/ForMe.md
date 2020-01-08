@@ -32,6 +32,7 @@ Streamline the process of informing the customers of better financial choices by
 
 ## K-MEANS Algorithms & silhouette
 <img src="https://raw.githubusercontent.com/jsong336/README/master/ForMe/p6.png" width=500px/>
+<br/>
 Silhouette scores around 0.55 – 0.57 when K = 5 ~ 6
 Silhouette scores: how close each points are in each cluster
 
@@ -42,6 +43,7 @@ Increasing frequency and total payment of food and dining as income increase
 Green, Yellow, Grey: Higher income compared to blue or red
 <h3>Food and Dining vs Total Payment vs Frequency View of the cluster</h3>
 <img src="https://raw.githubusercontent.com/jsong336/README/master/ForMe/p7.png" width=500px/>
+<br/>
 <i>Comment: To see better analysis, use Linear Discriminant Analysis</i>
 
 
@@ -58,6 +60,7 @@ Blue & Red: does not pay for any entertainment
 
 ## Classes to Card/Account
 <img src="https://raw.githubusercontent.com/jsong336/README/master/ForMe/p10.png" width=500px/>
+<br/>
 
 ### Setup on AWS - C9
 ```
