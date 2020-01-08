@@ -31,20 +31,21 @@ Streamline the process of informing the customers of better financial choices by
 <li>fees and charges count</li>
 
 ## K-MEANS Algorithms & silhouette
-![alt text](https://raw.githubusercontent.com/jsong336/README/p6.png)
+![alt text](https://raw.githubusercontent.com/jsong336/README/ForMe/p6.png)
 Silhouette scores around 0.55 – 0.57 when K = 5 ~ 6
 Silhouette scores: how close each points are in each cluster
 
 ## Clusters output 
-![alt text](https://raw.githubusercontent.com/jsong336/README/p7.png)
-![alt text](https://raw.githubusercontent.com/jsong336/README/p8a.png)
-![alt text](https://raw.githubusercontent.com/jsong336/README/p8b.png)
-![alt text](https://raw.githubusercontent.com/jsong336/README/p9a.png)
-![alt text](https://raw.githubusercontent.com/jsong336/README/p9b.png)
 Total payment: total spent for each of the categories from transaction
 Frequency: how often made the transaction
 Increasing frequency and total payment of food and dining as income increase
 Green, Yellow, Grey: Higher income compared to blue or red
+![alt text](https://raw.githubusercontent.com/jsong336/README/ForMe/p7.png)
+![alt text](https://raw.githubusercontent.com/jsong336/README/ForMe/p8a.png)
+![alt text](https://raw.githubusercontent.com/jsong336/README/ForMe/p8b.png)
+![alt text](https://raw.githubusercontent.com/jsong336/README/ForMe/p9a.png)
+![alt text](https://raw.githubusercontent.com/jsong336/README/ForMe/p9b.png)
+
 
 ### Analysis
 Blue & Red: makes one time pays for home 
@@ -58,7 +59,7 @@ Green &Black &Yellow: payments to entertainment
 Blue & Red: does not pay for any entertainment 
 
 ## Classes to Card/Account
-![alt text](https://raw.githubusercontent.com/jsong336/README/p10.png)
+![alt text](https://raw.githubusercontent.com/jsong336/README/ForMe/p10.png)
 
 ### Setup on AWS - C9
 ```
