@@ -31,7 +31,7 @@ Streamline the process of informing the customers of better financial choices by
 <li>fees and charges count</li>
 
 ## K-MEANS Algorithms & silhouette
-
+![alt text](https://raw.githubusercontent.com/jsong336/README)
 Silhouette scores around 0.55 – 0.57 when K = 5 ~ 6
 Silhouette scores: how close each points are in each cluster
 
