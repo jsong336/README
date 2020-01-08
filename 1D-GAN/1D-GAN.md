@@ -27,10 +27,7 @@ Y - -tanh(x)
 
 Data will have format of (n, 2)
 
-Initially, started with sine graph, however, it seems like it is difficult for 1-D GAN to mimics sine functions, possibly since sine graph has more complex and specific pattern. Generated points tend to cluster on top or bottom of the sine graph.
-
-This model was able to regenerated tanh function much easier especially negative tanh function. Since this project is to illustrate and to learn about the basic concept of GAN network, I will use -tanh function as target function. Any lograthimic, exponential or low degree polynomial functions should also be fine as the target function. 
-
+This model was able to regenerated tanh function much easier especially negative tanh function. Since this project is to illustrate and to learn about the basic concept of GAN network, I will use -tanh function as target function. Any functions with simple shape like lograthimic, exponential or low degree polynomial functions should also be fine as the target function to simply see effects of GAN.
 
 ```python
 def target_function(x):
