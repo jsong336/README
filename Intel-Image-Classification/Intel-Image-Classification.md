@@ -20,6 +20,7 @@
 
 <img src="https://raw.githubusercontent.com/jsong336/README/master/Intel-Image-Classification/building.jpg"/>
 building
+<br/>
 
 ### Config
 <i>Current configuration on CONST.py: epoch 1, number of image: 2000. Please change configuration that fits your hardware. Current config trains the model up to around 82% validation accuracy which leaves limitation of the model</i>
@@ -29,8 +30,7 @@ building
 
 <img src="https://raw.githubusercontent.com/jsong336/README/master/Intel-Image-Classification/glacier-like-sea.jpg"/>
 glacier
-
-
+<br/>
 
 ## Class 
 ```
