@@ -31,7 +31,8 @@ Streamline the process of informing the customers of better financial choices by
 <li>fees and charges count</li>
 
 ## K-MEANS Algorithms & silhouette
-![alt text](https://raw.githubusercontent.com/jsong336/README/ForMe/p6.png)
+<img src="https://raw.githubusercontent.com/jsong336/README/master/ForMe/p6.png" width=500px/>
+<br/>
 Silhouette scores around 0.55 – 0.57 when K = 5 ~ 6
 Silhouette scores: how close each points are in each cluster
 
@@ -40,11 +41,10 @@ Total payment: total spent for each of the categories from transaction
 Frequency: how often made the transaction
 Increasing frequency and total payment of food and dining as income increase
 Green, Yellow, Grey: Higher income compared to blue or red
-![alt text](https://raw.githubusercontent.com/jsong336/README/ForMe/p7.png)
-![alt text](https://raw.githubusercontent.com/jsong336/README/ForMe/p8a.png)
-![alt text](https://raw.githubusercontent.com/jsong336/README/ForMe/p8b.png)
-![alt text](https://raw.githubusercontent.com/jsong336/README/ForMe/p9a.png)
-![alt text](https://raw.githubusercontent.com/jsong336/README/ForMe/p9b.png)
+<h3>Food and Dining vs Total Payment vs Frequency View of the cluster</h3>
+<img src="https://raw.githubusercontent.com/jsong336/README/master/ForMe/p7.png" width=500px/>
+<br/>
+<i>Comment: To see better analysis, use Linear Discriminant Analysis</i>
 
 
 ### Analysis
@@ -59,7 +59,8 @@ Green &Black &Yellow: payments to entertainment
 Blue & Red: does not pay for any entertainment 
 
 ## Classes to Card/Account
-![alt text](https://raw.githubusercontent.com/jsong336/README/ForMe/p10.png)
+<img src="https://raw.githubusercontent.com/jsong336/README/master/ForMe/p10.png" width=500px/>
+<br/>
 
 ### Setup on AWS - C9
 ```
