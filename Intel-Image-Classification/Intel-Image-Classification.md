@@ -11,16 +11,26 @@
 ```
   python3 predict.py {h5 model path(model.h5)} {image path}
 ```
-### Example
-<img src="https://raw.githubusercontent.com/jsong336/README/master/Intel-Image-Classification/building.jpg"/>
-building
+* predict an image
 
+### Example
 ```
     python3 predict.py model.h5 demo/building.jpg
 ```
 
+<img src="https://raw.githubusercontent.com/jsong336/README/master/Intel-Image-Classification/building.jpg"/>
+building
 
-* predict an image
+### Config
+<i>Current configuration on CONST.py: epoch 1, number of image: 2000. Please change configuration that fits your hardware. Current config trains the model up to around 82% validation accuracy which leaves limitation of the model</i>
+```
+    python3 predict.py model.h5 demo/glacier-looking-sea.jpg
+```
+
+<img src="https://raw.githubusercontent.com/jsong336/README/master/Intel-Image-Classification/glacier-like-sea.jpg"/>
+glacier
+
+
 
 ## Class 
 ```
