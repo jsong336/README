@@ -20,6 +20,12 @@
 
 <img src="https://raw.githubusercontent.com/jsong336/README/master/Intel-Image-Classification/building.jpg"/>
 building
+
+<img src="https://raw.githubusercontent.com/jsong336/README/master/Intel-Image-Classification/glacier.jpg"/>
+glacier
+
+<img src="https://raw.githubusercontent.com/jsong336/README/master/Intel-Image-Classification/forest.jpg"/>
+forest
 <br/>
 
 ### Config
@@ -31,6 +37,7 @@ building
 <img src="https://raw.githubusercontent.com/jsong336/README/master/Intel-Image-Classification/glacier-like-sea.jpg"/>
 glacier
 <br/>
+
 
 ## Class 
 ```
