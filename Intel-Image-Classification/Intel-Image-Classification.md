@@ -19,6 +19,7 @@
 ```
 
 <img src="https://raw.githubusercontent.com/jsong336/README/master/Intel-Image-Classification/building.jpg"/>
+<br/>
 building
 
 ### Config
@@ -28,6 +29,7 @@ building
 ```
 
 <img src="https://raw.githubusercontent.com/jsong336/README/master/Intel-Image-Classification/glacier-like-sea.jpg"/>
+<br/>
 glacier
 
 
