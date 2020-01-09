@@ -11,6 +11,15 @@
 ```
   python3 predict.py {h5 model path(model.h5)} {image path}
 ```
+### Example
+<img src="https://raw.githubusercontent.com/jsong336/README/master/1D-GAN/building.jpg"/>
+```
+    python3 predict.py model.h5 demo/building.jpg
+    
+    -> return building
+```
+
+
 * predict an image
 
 ## Class 
